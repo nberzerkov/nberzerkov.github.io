@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>homepage on [e]nduraev</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in homepage on [e]nduraev</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Первый пост</title>
+      <link>http://localhost:1313/blog/init-post/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/init-post/</guid>
+      <description>&lt;p&gt;Первый пост о чем то и не очень&lt;/p&gt;&#xA;&lt;h4 id=&#34;header&#34;&gt;Header&lt;/h4&gt;</description>
+    </item>
+    <item>
+      <title>третий пост</title>
+      <link>http://localhost:1313/blog/third/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/third/</guid>
+      <description>&lt;h1 id=&#34;отложенный-текст&#34;&gt;Отложенный текст?&lt;/h1&gt;&#xA;&lt;p&gt;Вообще то это отложенный текст, точнее я предполагаю что он отложенный, т.к. я поставил дату&#xA;10 октября 2024 года сегодня (9 октября) и он не появился в блоге. Завтра зайду и проверю данную&#xA;гипотезу&lt;/p&gt;&#xA;&lt;p&gt;метод &lt;code&gt;draft&lt;/code&gt; очень полезный. С помощью этого флага (метод?) можно помечать те посты, которые&#xA;ты не хочешь видеть в деплой билде, которые ты запускаешь с командой &lt;code&gt;hugo&lt;/code&gt;. В драфт попадают&#xA;посты которые запускаются с флагом hugo server -D&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Обо мне</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;hello&#34;&gt;Hello&lt;/h1&gt;&#xA;&lt;p&gt;This page is about me and my words and letters!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
