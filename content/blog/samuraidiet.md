@@ -7,7 +7,7 @@ date = "2024-10-14T17:51:48+05:00"
 #
 # description = "An optional description for SEO. If not provided, an automatically created summary will be used."
 
-tags = [personal, food]
+tags = ['personal', 'food']
 +++
 
 Моё питание часто меняется. Как и часто появляется желание изменить всё это к чертям и есть хорошую пищю.
