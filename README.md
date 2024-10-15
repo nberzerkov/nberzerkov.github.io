@@ -1,4 +1,4 @@
-# [NBERZERKOV](https://www.nberzerkov.github.io)
+# [NBERZERKOV](https://nberzerkov.github.io)
 
 # Создать пост
 
