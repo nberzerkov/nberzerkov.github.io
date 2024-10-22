@@ -11,7 +11,7 @@ tags = ['personal', 'food', "health"]
 
 Довольно давно я наткнулся на [Диету Самурая](https://vk.com/@biobezpredel-samaya-optimalnaya-dieta-kotoruu-tolko-vidyval-svet)
 
-![diet of samurai image](/static/images/diet_samurai.png)
+![diet of samurai image](/diet_samurai.png)
 
 ---
 
