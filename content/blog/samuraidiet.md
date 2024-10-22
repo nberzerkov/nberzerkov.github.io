@@ -1,7 +1,7 @@
 +++
 title = "Диета Самурая"
 date = "2024-10-14T17:51:48+05:00"
-tags = ['personal', 'food']
+tags = ['personal', 'food', "health"]
 +++
 
 "Правильно" питаться сложнее чем кажется. Слишком высокий соблазн закинуться ["пустой" едой](https://www.houstonmethodist.org/blog/articles/2021/jan/empty-calories-what-are-they-and-which-foods-are-they-hiding-in/), а после того как нажрался, давать себе пустые обещания что вот в следующий раз я точно начну питаться так как я хотел. 
@@ -11,7 +11,7 @@ tags = ['personal', 'food']
 
 Довольно давно я наткнулся на [Диету Самурая](https://vk.com/@biobezpredel-samaya-optimalnaya-dieta-kotoruu-tolko-vidyval-svet)
 
-![[diet-samurai.png]]
+![diet of samurai image](static/diet-samurai.png])
 
 ---
 
@@ -54,10 +54,8 @@ tags = ['personal', 'food']
 - **Пить много воды = база**
 
 ---
-keywords: #blog личный блог, еда, диета, правильное питание, здоровье
 
 references:
-- [Диета Самурая | \[e\]nduraev](https://nberzerkov.github.io/blog/samuraidiet/)
 - [Empty Calories: What Are They & Which Foods Are They Hiding In? | Houston Methodist On Health](https://www.houstonmethodist.org/blog/articles/2021/jan/empty-calories-what-are-they-and-which-foods-are-they-hiding-in/)
 - [Диета Самурая 2.0](https://vk.com/@biobezpredel-samaya-optimalnaya-dieta-20)
 - [Диета Самурая 1.0](https://vk.com/@biobezpredel-samaya-optimalnaya-dieta-kotoruu-tolko-vidyval-svet)
